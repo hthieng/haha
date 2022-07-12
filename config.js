@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'Babi à!',
-    introDesc: `Anh khum bíc tại sao ta lại có thể gặp đựt nhao trên cái thế giới 7 tỉ ngừi nì <hr>
+    introDesc: `Anh khum bíc tại sao ta lại có thể gặp đựt nhao <hr>
     Anh thực sự cảm thấy may mắn khi gặp được em <hr>
     Không biết từ khi nào hình bóng em đã luôn ở trong tâm trí và lấp đầy trái tim anh mất rồi <hr>
     Anh thực sự yêu em nhìu nhìu lắm 😙 <hr>
