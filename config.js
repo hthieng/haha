@@ -1,20 +1,20 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Anh biết tụi mình không nên cứ như thế này mãi được
-    Anh đã suy nghĩ rất nhiều
-    Không biết từ khi nào hình bóng em đã luôn ở trong tâm trí anh mất rồi
-    Từ giờ anh sẽ bước phía em
+    introTitle: 'Babi à!',
+    introDesc: `Anh khum bíc tại sao ta lại có thể gặp đựt nhao trên cái thế giới 7 tỉ ngừi nì
+    Anh thực sự cảm thấy may mắn khi gặp được em
+    Không biết từ khi nào hình bóng em đã luôn ở trong tâm trí và lấp đầy trái tim anh mất rồi
+    Anh thực sự yêu em nhìu nhìu lắm 😙
     `,
     btnIntro: 'hihi',
-    title: 'Anh thích em 😙',
-    desc: 'Chúng ta hẹn hò nhé??? 😙 ',
-    btnYes: 'Vanggg, em cũng thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
+    title: 'Anh yêu em 😙',
+    desc: 'Chúng ta hãy cố gắng vì nhau thật nhìu nhoaa 😙 ',
+    btnYes: 'Dạaaa, em cũng yêu anh 😙',
+    btnNo: 'Khồnggggggg, nâuuuuuuuuu :3',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Vì anh là hoangthien, hoangthien cụa em <33333333',
+    mess: 'hihi umoahhhh 🥰. Yêu em nhiều nhiều lúmmmm 😘😘',
+    messDesc: 'Tối nay 8h anh qua dới công chúa nháa.',
+    btnAccept: 'Dạaaaaaaaa <3',
+    messLink: 'https://www.facebook.com/messages/t/100013913295000' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
